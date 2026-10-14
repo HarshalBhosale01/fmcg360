@@ -1,0 +1,10 @@
+pyspark==3.5.3
+delta-spark==3.2.1
+kafka-python==2.0.2
+pandas
+numpy
+faker
+pyyaml
+boto3
+great-expectations
+pytest
