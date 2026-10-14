@@ -1,0 +1,11 @@
+store_id,city,state,store_type,size_factor
+STORE001,Mumbai,Maharashtra,Hypermarket,1.82
+STORE002,Mumbai,Maharashtra,Supermarket,0.91
+STORE003,Mumbai,Maharashtra,Kirana,0.48
+STORE004,Pune,Maharashtra,Hypermarket,1.61
+STORE005,Pune,Maharashtra,Supermarket,1.19
+STORE006,Nashik,Maharashtra,Supermarket,1.17
+STORE007,Nashik,Maharashtra,Kirana,0.67
+STORE008,Nagpur,Maharashtra,Hypermarket,1.54
+STORE009,Nagpur,Maharashtra,Kirana,0.53
+STORE010,Kolhapur,Maharashtra,Supermarket,0.91

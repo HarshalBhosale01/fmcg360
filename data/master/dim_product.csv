@@ -1,0 +1,11 @@
+product_id,product_name,category,subcategory,brand,base_price,unit_cost,base_demand,shelf_life_days,supplier_id
+SKU001,Cola 500ml,Beverages,Soft Drinks,FizzUp,40.0,28.0,30,180,SUP001
+SKU002,Lemon Soda 500ml,Beverages,Soft Drinks,FizzUp,35.0,23.8,20,180,SUP001
+SKU003,Mango Juice 1L,Beverages,Juices,FreshPulp,110.0,71.5,15,120,SUP001
+SKU004,Energy Drink 250ml,Beverages,Energy Drinks,Voltz,99.0,59.4,10,240,SUP001
+SKU005,Salted Chips 50g,Snacks,Chips,Crunchy,20.0,13.0,40,90,SUP002
+SKU006,Cream Biscuits,Snacks,Biscuits,Bakewell,30.0,21.6,35,150,SUP002
+SKU007,Spicy Namkeen 200g,Snacks,Namkeen,Desi Bite,55.0,36.3,25,120,SUP004
+SKU008,Herbal Shampoo 180ml,Personal Care,Shampoo,Silkora,175.0,96.25,12,720,SUP003
+SKU009,Beauty Soap 100g,Personal Care,Soap,Glowra,45.0,27.0,28,720,SUP003
+SKU010,Toothpaste 150g,Personal Care,Toothpaste,Denta,95.0,55.1,22,720,SUP003

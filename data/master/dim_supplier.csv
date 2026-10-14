@@ -1,0 +1,5 @@
+supplier_id,name,lead_time_days,reliability_score
+SUP001,Western Beverages Ltd,3,0.95
+SUP002,Sahyadri Foods,5,0.88
+SUP003,Metro Personal Care,4,0.92
+SUP004,Konkan Distributors,7,0.8
